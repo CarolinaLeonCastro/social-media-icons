@@ -29,7 +29,7 @@
     width: 100%;
     z-index: -1;
     border-radius: 10%;
-    background: linear-gradient(45deg, #681b57, #db02c9);
+    background: linear-gradient(45deg, #451b68, #db02c9);
     transition: all 0.3s ease-in;
   }
   .icons li:hover:before{
